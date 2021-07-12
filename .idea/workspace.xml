@@ -12,7 +12,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="" />
+    <list default="true" id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="initial project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +37,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
   </component>
   <component name="ProjectId" id="1v6PmauFzTZD9Hljtmrqn1PiIeD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -130,6 +136,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="" />
@@ -138,7 +147,19 @@
       <option name="presentableId" value="Default" />
       <updated>1625879731637</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial project">
+      <created>1626051314349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626051314350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="797" y="308" key="#com.intellij.ide.util.MemberChooser" timestamp="1626047143859">
@@ -185,6 +206,10 @@
     </state>
     <state width="1878" height="331" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@-1920.84.1920.1080" timestamp="1625934603212" />
     <state width="2006" height="347" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626050807560" />
+    <state x="626" y="377" key="Vcs.Push.Dialog.v2" timestamp="1626051329432">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="626" y="377" key="Vcs.Push.Dialog.v2/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626051329432" />
     <state x="667" y="286" width="715" height="802" key="search.everywhere.popup" timestamp="1626049927962">
       <screen x="0" y="0" width="2048" height="1280" />
     </state>
