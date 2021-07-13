@@ -1,1 +1,5 @@
-package com.example.meditopitestcase.dataenum class Status {    SUCCESS, ERROR, LOADING}
+package com.example.meditopitestcase.data
+
+enum class Status {
+    SUCCESS, ERROR, LOADING
+}

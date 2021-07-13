@@ -31,7 +31,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="initial project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/Api.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/BaseMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/BaseMessage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/Message.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/Message.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/api/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/binding/ViewBinding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/binding/ViewBinding.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/data/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/data/Resource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/data/Status.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/data/Status.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/di/RetrofitModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/di/RetrofitModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/repo/remote/MessageRepoSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/meditopitestcase/repo/remote/MessageRepoSource.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +88,7 @@
     <property name="consentGiven" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
-    <property name="settings.editor.selected.configurable" value="dev.polek.adbwifi.settings.AdbWifiConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -201,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626159144971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial project">
+      <created>1626160443141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626160443141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,10 +281,14 @@
     </state>
     <state width="1878" height="331" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@-1920.84.1920.1080" timestamp="1625934603212" />
     <state width="2006" height="347" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626050807560" />
-    <state x="587" y="306" key="Vcs.Push.Dialog.v2" timestamp="1626159151510">
+    <state x="747" y="109" key="SettingsEditor" timestamp="1626160605027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="306" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1626159151510" />
+    <state x="747" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1626160605027" />
+    <state x="587" y="306" key="Vcs.Push.Dialog.v2" timestamp="1626160458057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="306" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1626160458057" />
     <state x="626" y="377" key="Vcs.Push.Dialog.v2/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626051329432" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626158759423">
       <screen x="0" y="0" width="1920" height="1040" />

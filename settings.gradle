@@ -1,1 +1,2 @@
-rootProject.name = "MeditopiTestCase"include ':app'
+rootProject.name = "MeditopiTestCase"
+include ':app'
