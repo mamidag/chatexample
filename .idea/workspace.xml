@@ -30,7 +30,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="initial project" />
+    <list default="true" id="e1aa465e-a377-44e7-9ea8-90f70a8ad2b7" name="Default Changelist" comment="initial project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626158953402</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial project">
+      <created>1626159144971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626159144971</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,10 +265,10 @@
     </state>
     <state width="1878" height="331" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@-1920.84.1920.1080" timestamp="1625934603212" />
     <state width="2006" height="347" key="GridCell.Tab.0.right/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626050807560" />
-    <state x="587" y="306" key="Vcs.Push.Dialog.v2" timestamp="1626158806502">
+    <state x="587" y="306" key="Vcs.Push.Dialog.v2" timestamp="1626159151510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="306" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1626158806502" />
+    <state x="587" y="306" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1626159151510" />
     <state x="626" y="377" key="Vcs.Push.Dialog.v2/0.0.2048.1280/-1920.84.1920.1080@0.0.2048.1280" timestamp="1626051329432" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626158759423">
       <screen x="0" y="0" width="1920" height="1040" />
